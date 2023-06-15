@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: cc2b64fa8a34e7c439e90566742b7d59, type: 3}
+    - {fileID: 2800000, guid: 6e8db111a9ea13e41a0b961dd73826f9, type: 3}
+    - {fileID: 2800000, guid: b3598bb3419030044a670dbab64e6dbb, type: 3}
+    - {fileID: 2800000, guid: 64377bf9ae09a6e40a2fba761c090e99, type: 3}
+    - {fileID: 2800000, guid: 37b85fc60f63d2844bf6b824bcc83503, type: 3}
+    - {fileID: 2800000, guid: a70dc9671941a3d4a955e0ca6d6679de, type: 3}
+    - {fileID: 2800000, guid: b885a8b3e5cd71145842bd72bf5487d0, type: 3}
+    - {fileID: 2800000, guid: 170577bce7cbda144b82578f81308d23, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6e8db111a9ea13e41a0b961dd73826f9, type: 3}
+  - {fileID: -4468325923171523929, guid: b885a8b3e5cd71145842bd72bf5487d0, type: 3}
+  - {fileID: 21300000, guid: b3598bb3419030044a670dbab64e6dbb, type: 3}
+  - {fileID: 21300000, guid: 37b85fc60f63d2844bf6b824bcc83503, type: 3}
+  - {fileID: -3095886911710049607, guid: a70dc9671941a3d4a955e0ca6d6679de, type: 3}
+  - {fileID: 21300000, guid: 64377bf9ae09a6e40a2fba761c090e99, type: 3}
+  - {fileID: 21300000, guid: cc2b64fa8a34e7c439e90566742b7d59, type: 3}
+  - {fileID: 21300000, guid: 170577bce7cbda144b82578f81308d23, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - A2
+  - StarFill_0
+  - Cube
+  - medal
+  - StarEmpty_0
+  - galaxy
+  - A1
+  - White_1x1
+  m_RenderDataMap: {}
+  m_Tag: SpriteAtlas
+  m_IsVariant: 0
